@@ -1,0 +1,5 @@
+const val DIGIT_5 = "com.sec.android.app.popupcalculator:id/calc_keypad_btn_05"
+const val DIGIT_8 = "com.sec.android.app.popupcalculator:id/calc_keypad_btn_08"
+const val MULTIPLICATION = "com.sec.android.app.popupcalculator:id/calc_keypad_btn_mul"
+const val EQUAL = "com.sec.android.app.popupcalculator:id/calc_keypad_btn_equal"
+const val RESULT = "com.sec.android.app.popupcalculator:id/calc_edt_formula"
